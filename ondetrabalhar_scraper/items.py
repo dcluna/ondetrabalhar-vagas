@@ -14,3 +14,5 @@ class OndetrabalharScraperItem(scrapy.Item):
     title = scrapy.Field()
     location = scrapy.Field()
     meta = scrapy.Field()
+    url = scrapy.Field()
+    howtoapply = scrapy.Field()
