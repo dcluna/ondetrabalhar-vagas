@@ -1,0 +1,5 @@
+* OndeTrabalhar.com vagas
+ Scraper (and eventually a web interface) for [[http://www.ondetrabalhar.com][OndeTrabalhar.com]] job ads. The
+ website does not have a search function, and I wanted to search for specific
+ keywords, so I made this. If time/patience allows, I'll whip up a basic web
+ interface for it.
